@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using PlayerManagerMVC.Views;
+using PlayerManagerMVC.Controllers;
 
 namespace PlayerManagerMVC
 {
