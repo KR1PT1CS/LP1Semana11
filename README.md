@@ -1,12 +1,12 @@
-       +Compare(Player, Player): int
-    }
++Compare(Player, Player): int
+ }
 
-    enum PlayerOrder {
+ enum PlayerOrder {
         ByScore
         ByName
         ByNameReverse
     }
 
-    PlayerController --> PlayerView
-    PlayerController --> Player
-    PlayerController --> CompareByName
+ PlayerController --> PlayerView
+ PlayerController --> Player
+ PlayerController --> CompareByName
